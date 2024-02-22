@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Play Starfield",
+      "details": "lorem ipsum",
+      "category": "reminders",
+      "id": "1"
+    },
+    {
+      "title": "Complete project",
+      "details": "lorem ipsum",
+      "category": "work",
+      "id": "2"
+    },
+    {
+      "title": "Order pizza",
+      "details": "lorem ipsum",
+      "category": "todos",
+      "id": "3"
+    },
+    {
+      "id": "baba",
+      "title": "Play Persona 5",
+      "details": "lorem ipsum",
+      "category": "reminders"
+    }
+  ]
+}

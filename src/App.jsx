@@ -4,11 +4,6 @@ import Notes from './pages/Notes'
 import { createTheme, ThemeProvider } from "@mui/material/styles"
 
 const theme = createTheme({
-  palette: {
-    primary: {
-      main: '#fefefe'
-    }
-  },
   typography: {
     fontFamily: "Kode Mono", 
     fontWeightLight: 400,
@@ -20,6 +15,11 @@ const theme = createTheme({
       hover: {
           backgroundColor: '#808080'
       }
+  },
+  field: {
+    marginTop: 3,
+    marginBottom: 3,
+    display: 'block'
   }
 })
 
