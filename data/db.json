@@ -1,27 +1,51 @@
 {
   "notes": [
     {
-      "title": "Play Starfield",
-      "details": "lorem ipsum",
-      "category": "reminders",
-      "id": "1"
+      "id": "583f",
+      "title": "Shrimp and Chorizo Paella",
+      "details": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "category": "reminders"
     },
     {
-      "title": "Complete project",
-      "details": "lorem ipsum",
-      "category": "work",
-      "id": "2"
+      "id": "ec87",
+      "title": "Test3",
+      "details": "Moloso vobiscum et cum spiritum",
+      "category": "todos"
     },
     {
-      "title": "Order pizza",
-      "details": "lorem ipsum",
-      "category": "todos",
-      "id": "3"
+      "id": "c287",
+      "title": "pay bills",
+      "details": "bla bla blah",
+      "category": "money"
     },
     {
-      "id": "baba",
-      "title": "Play Persona 5",
-      "details": "lorem ipsum",
+      "id": "b71e",
+      "title": "asdasd",
+      "details": "asdfasdasd",
+      "category": "todos"
+    },
+    {
+      "id": "e26f",
+      "title": "asdfasf",
+      "details": "sdgadfsghadfhsd tjkdfhs  gawefg asdefg asgSDFv SeGTFDCVZB ZDFGASDG sdvASDG",
+      "category": "reminders"
+    },
+    {
+      "id": "b412",
+      "title": "asdfg af",
+      "details": "Masonry maintains a list of content blocks with a consistent width but different height. The contents are ordered by row. If a row is already filled with the specified number of columns, the next item starts another row, and it is added to the shortest column in order to optimize the use of space.",
+      "category": "work"
+    },
+    {
+      "id": "12dd",
+      "title": "jgbngcvhj,gf,jh",
+      "details": "k.hjbwsedcfvlijkhsbdcvJ,hsaCVBLUsgczxhjklbn AS ",
+      "category": "money"
+    },
+    {
+      "id": "d122",
+      "title": "BzfBsVsdvSDvsdv",
+      "details": "The useLocation hook from React Router provides information about the current location (i.e., the current route).\nInside the SidebarItem component, we compare the current pathname with the specified path. If they match, the item is considered active.\nBased on the isActive value, we dynamically set the background color in the sx prop.\nYou can customize other styles (such as font color, padding, etc.) as needed.\nRemember to adjust the component structure and paths according to your specific sidebar implementation. Happy coding! 😊",
       "category": "reminders"
     }
   ]

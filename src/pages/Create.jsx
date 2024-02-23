@@ -91,7 +91,7 @@ export default function Create({ theme }) {
                         })}
                     >
                         <FormLabel>Note Category</FormLabel>
-                        <RadioGroup value={category} onChange={(e) => setCategory(e.target.value)}>
+                        <RadioGroup  value={category} onChange={(e) => setCategory(e.target.value)}>
                             <FormControlLabel control={<Radio />} label="Money" value="money" />
                             <FormControlLabel control={<Radio />} label="Todos" value="todos" />
                             <FormControlLabel control={<Radio />} label="Reminders" value="reminders" />
